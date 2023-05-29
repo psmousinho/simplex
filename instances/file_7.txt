@@ -1,0 +1,9 @@
+N_VAR: 2
+N_RES: 3
+OBJ_FUN: MIN 4 5
+RESTRICTIONS:
+3 1 = 7
+5 5 >= 6
+6 4 >= 6
+x1 >= 0
+x2 >= 0

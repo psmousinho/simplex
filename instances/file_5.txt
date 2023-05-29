@@ -1,0 +1,9 @@
+N_VAR: 2
+N_RES: 3
+OBJ_FUN: MAX 3 5
+RESTRICTIONS:
+1 0 <= 4
+0 2 <= 12
+3 2 = 18
+x1 >= 0
+x2 >= 0
